@@ -1,0 +1,22 @@
+{
+  "name": "nw-shortcuts",
+  "version": "0.0.1",
+  "description": "useful shortcuts for node webkit development",
+  "main": "shortcuts.js",
+  "scripts": {
+    "build": "coffee -c -b shortcuts.coffee"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mupat/nw-shortcuts.git"
+  },
+  "author": "Patrick Müller <dev@mupat.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mupat/nw-shortcuts/issues"
+  },
+  "homepage": "https://github.com/mupat/nw-shortcuts",
+  "devDependencies": {
+    "coffee-script": "^1.7.1"
+  }
+}
