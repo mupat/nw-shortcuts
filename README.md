@@ -1,7 +1,7 @@
 # nw-shortcuts
 useful shortcuts for node webkit development
 
-# available shortcuts
+## available shortcuts
 - reload on mac `CMD + R`
 - reload on win & linux `F5`
 - hard-reload on mac `CMD + SHIFT + R`
